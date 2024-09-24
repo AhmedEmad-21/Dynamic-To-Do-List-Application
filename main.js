@@ -48,7 +48,6 @@ function createElement(taskText,completed =false) {
   addedText.style.flexWrap = "wrap";
   addedText.style.alignItems = "center";
   addedText.style.fontWeight = "bolder";
-  addedText.style.fontSize = "20px";
   addedText.style.fontStyle = "'Helvetica', sans-serif";
   addedText.style.borderRadius = "10px";
   addedText.style.boxShadow = "0 4px 10px rgba(0, 0, 0, 0.1)";
